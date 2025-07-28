@@ -2,15 +2,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Guilherme+Souza!+)](https://git.io/typing-svg)
 </h1>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDeAraujoSouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeDeAraujoSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 ### 👨‍💻 About Me
 
 - 💻 Full Stack Developer focused on:
@@ -54,25 +45,22 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  ![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAraujo539&theme=react&show_icons=true&hide_border=true&count_private=true)
-  ![Guilherme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAraujo539&theme=react&layout=compact&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDeAraujoSouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeDeAraujoSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
 
 <h2 align="left">📬 Contact</h2>
 
-<div align="center">
-📧 **Email: <a href="mailto:guilhermedearaujosouza175@gmail.com">guilhermedearaujosouza175@gmail.com</a>**  
-<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-souza-7a425b265/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/GuilhermeAraujo539)
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeAraujo539/GuilhermeAraujo539/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeAraujo539/GuilhermeAraujo539/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeAraujo539/GuilhermeAraujo539/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:guilhermedearaujosouza175@gmail.com">guilhermedearaujosouza175@gmail.com</a>  
+  <br><br>
+  <a href="https://www.linkedin.com/in/guilherme-souza-7a425b265/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/GuilhermeAraujo539">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
