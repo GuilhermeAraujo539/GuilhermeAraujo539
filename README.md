@@ -1,6 +1,7 @@
 <h1 align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Guilherme+Souza!+)](https://git.io/typing-svg)
 </h1>
+
 ###
 
 <div align="center">
