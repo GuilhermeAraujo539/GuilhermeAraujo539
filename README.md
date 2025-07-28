@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Guilherme de Araujo Souza and I'm a Full Stack Developer.</h2>
-
+<h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Guilherme+Souza!+)](https://git.io/typing-svg)
+</h1>
 ###
 
 <div align="center">
@@ -9,45 +10,68 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+### 👨‍💻 About Me
+
+- 💻 Full Stack Developer focused on:
+  - **Java (Spring Boot)** and **Node.js** for backend
+  - **React** and **JavaScript** for frontend
+- 🔧 Passionate about scalable, well-structured code and clean architecture
+- 🔁 Experienced in API integration, CI/CD, and Git workflows
+- 🌍 Based in Diadema, São Paulo, Brazil
+- 🚀 Open to innovative projects and collaboration opportunities
+
+---
+
+<h2 align="left">🛠️ Skills & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,react,reactnative,postgres,git,github,figma,postman" height="40" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media2.giphy.com/media/lJNoBCvQYp7nq/200w.gif?cid=6c09b952dpv3o8zmoiw58gc2xpuhzhln1z2r1p8cz87akyf8&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<h2 align="left">💼 Experience</h2>
 
-###
+- **EventEasy** – *Full Stack Developer (Freelancer, 2024–Present)*  
+  Developed a web platform to manage events and reduce food waste.  
+  Integrated external APIs like **Spotify** and **Mercado Pago**.  
+  Stack: Node.js, React, REST APIs, Git.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+- **ERP Web System** – *Freelance Project (2024–Present)*  
+  ERP system using **Spring Boot** and **React**.  
+  Focus on performance, security, and test automation.
+
+---
+
+<h2 align="left">🎓 Education</h2>
+
+- 🎓 **FATEC** – Analysis and Systems Development *(Expected: 2026)*  
+- 🎓 **ETEC** – Technical Degree in Systems Development *(Completed: 2024)*
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  ![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAraujo539&theme=react&show_icons=true&hide_border=true&count_private=true)
+  ![Guilherme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAraujo539&theme=react&layout=compact&hide_border=true)
 </div>
 
-###
+---
 
-<br clear="both">
+<h2 align="left">📬 Contact</h2>
 
-###
+<div align="center">
+📧 **Email: <a href="mailto:guilhermedearaujosouza175@gmail.com">guilhermedearaujosouza175@gmail.com</a>**  
+<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-souza-7a425b265/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/GuilhermeAraujo539)
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeAraujo539/GuilhermeAraujo539/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeAraujo539/GuilhermeAraujo539/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeAraujo539/GuilhermeAraujo539/output/pacman-contribution-graph.svg">
+</picture>
