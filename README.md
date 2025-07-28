@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<h2 align="left">👨‍💻 About Me</h2>
 
 - 💻 Full Stack Developer focused on:
   - **Java (Spring Boot)** and **Node.js** for backend
