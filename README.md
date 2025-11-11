@@ -26,7 +26,7 @@
 
 <h2 align="left">💼 Experience</h2>
 
-- **EventEasy** – *Full Stack Developer (Freelancer, 2024–Present)*  
+- **EventEasy** – *Full Stack Developer (Freelancer, aug/2024 – dec/2024)*  
   Developed a web platform to manage events and reduce food waste.  
   Integrated external APIs like **Spotify** and **Mercado Pago**.  
   Stack: Node.js, React, REST APIs, Git.
