@@ -26,7 +26,7 @@
 
 <h2 align="left">💼 Experience</h2>
 
-- **Nex Digital** – *Full Stack Developer (Freelancer, nov/2025)*
+- **Nex Digital** – *Full Stack Developer (Freelancer, nov/2025)*  
   Developed mobile-first web applications for **Universidade Cruzeiro do Sul**.  
   The project was created for a **CCXP campaign**, with the university partnering with **Amazon Prime Video**.  
   Built both front-end and back-end features, including a registration form and an interactive quiz with scoring logic, using a company white-label base project.  
