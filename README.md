@@ -26,16 +26,17 @@
 
 <h2 align="left">💼 Experience</h2>
 
+- **Nex Digital** – *Full Stack Developer (Freelancer, nov/2025)*
+  Developed mobile-first web applications for **Universidade Cruzeiro do Sul**.
+  The project was created for a **CCXP campaign**, with the university partnering with **Amazon Prime Video**.
+  Built both front-end and back-end features, including a registration form and an interactive quiz with scoring logic, using a company white-label base project.
+  Stack: **React**, **JavaScript**, **Node.js**, **REST APIs**, **Git**.
+
 - **EventEasy** – *Full Stack Developer (Freelancer, aug/2024 – dec/2024)*  
   Developed a web platform to manage events and reduce food waste.  
   Integrated external APIs like **Spotify** and **Mercado Pago**.  
-  Stack: Node.js, React, REST APIs, Git.
-
-- **Nex Digital – Full Stack Developer (Freelancer, 2025)**
-  Developed mobile-first web applications for **Universidade Cruzeiro do Sul** as part of a **CCXP campaign** in partnership with **Amazon Prime Video**.
-  Built both front-end and back-end features, including a registration form and an interactive quiz with scoring logic, using a company white-label base project.
-  Stack: **React**, **JavaScript**, **Node.js**, **REST APIs**, **Git**, Mobile-first.
-
+  Stack: **Node.js**, **React**, **REST APIs**, **Git**.
+  
 ---
 
 <h2 align="left">🎓 Education</h2>
