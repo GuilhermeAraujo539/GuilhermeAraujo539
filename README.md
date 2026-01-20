@@ -31,16 +31,17 @@
   Integrated external APIs like **Spotify** and **Mercado Pago**.  
   Stack: Node.js, React, REST APIs, Git.
 
-- **ERP Web System** – *Freelance Project (2024–Present)*  
-  ERP system using **Spring Boot** and **React**.  
-  Focus on performance, security, and test automation.
+- **Nex Digital – Full Stack Developer (Freelancer, 2025)**
+  Developed mobile-first web applications for **Universidade Cruzeiro do Sul** as part of a **CCXP campaign** in partnership with **Amazon Prime Video**.
+  Built both front-end and back-end features, including a registration form and an interactive quiz with scoring logic, using a company white-label base project.
+  Stack: **React**, **JavaScript**, **Node.js**, **REST APIs**, **Git**, Mobile-first.
 
 ---
 
 <h2 align="left">🎓 Education</h2>
 
-- 🎓 **FATEC** – Analysis and Systems Development *(Expected: 2026)*  
-- 🎓 **ETEC** – Technical Degree in Systems Development *(Completed: 2024)*
+- 🎓 **FATEC** – Analysis and Systems Development *(Expected: dec - 2026)*  
+- 🎓 **ETEC** – Technical Degree in Systems Development *(Completed: dec - 2024)*
 
 ---
 
